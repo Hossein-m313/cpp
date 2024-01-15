@@ -1,0 +1,14 @@
+{
+  "files.associations": {
+    "*.scss": "scss",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "ratio": "cpp",
+    "list": "cpp",
+    "ostream": "cpp",
+    "random": "cpp"
+  },
+  "C_Cpp.errorSquiggles": "enabled"
+}
